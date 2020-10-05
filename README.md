@@ -3,8 +3,6 @@
 These are Subdomain Enumaration Tools that I use, **Thanks to all the Authors for making things easy** and make sure to comment down which tools you use for Subdomain Enumaration and your methodologies
 
 
-These are Subdomain Enumaration Tools that I use, **Thanks to all the Authors for making things easy** and make sure to comment down which tools you use for Subdomain Enumaration and your methodologies
-
 - **Using Findomain**
 
     [Findomain/Findomain](https://github.com/Findomain/Findomain)
